@@ -15,6 +15,3 @@ export function selectionSort(array) {
 
     return array;
 }
-
-
-console.log(selectionSort([3, 2, 6, 1, 9, 11, 7, 2, 10, 15]));
